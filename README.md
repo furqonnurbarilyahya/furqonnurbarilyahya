@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓 I’m an informatics student with a strong passion for technology and innovation.  <br>- 📱 Currently diving deep into Android Development (Kotlin) & Data Science.  <br>- 💡 Love solving problems through mobile applications & data-driven decision-making.  <br>- 🌱 Always eager to learn new things and stay updated with tech trends.</p>
+<p align="left">- 🎓 I’m an informatics student with a strong passion for technology and innovation.  <br>- 📱 Currently diving deep into Android Development (Jetpack Compose/XML) & Data Science.  <br>- 💡 Love solving problems through mobile applications & data-driven decision-making.  <br>- 🌱 Always eager to learn new things and stay updated with tech trends.</p>
 
 
 ### Tech Stack
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
